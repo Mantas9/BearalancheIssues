@@ -2,4 +2,4 @@
 Go to issues tab -> New issue -> Bug report -> Fill in details and submit
 
 # Submit a suggestion
-Go to issues tab -> New issue -> 
+Go to issues tab -> New issue -> Feature request -> Fill in details and submit
